@@ -1,2 +1,2 @@
 # coach-kits
-very some useful tools for coaching business
+Some useful tools for coaching business
